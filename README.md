@@ -1,1 +1,1 @@
-**This is the repository to store my problem solving with C**
+*This is the repository to store problem sets for cs50 with C*
