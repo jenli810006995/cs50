@@ -18,6 +18,13 @@ argv[3] = z
 // 4. ctype.h -> isdigit
 // Tracking concept
 
+// Convert CL args from string to int
+// Method: stdlib.h -> atoi
+// In code:
+int strtoint;
+strtoint = atoi(argv[1])
 
+
+  
 
 
