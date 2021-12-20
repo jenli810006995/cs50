@@ -23,6 +23,10 @@ argv[3] = z
 // In code:
 int strtoint;
 strtoint = atoi(argv[1])
+  
+// Convert plaintext to ASCII
+// ASCII text uppercase: A ... Z -> Decimal uppercase 65 ... 90
+// ASCII text lowercase a ... z -> Decimal lowercase 97 ... 122 
 
 
   
