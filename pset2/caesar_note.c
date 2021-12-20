@@ -10,3 +10,14 @@ argv[2] = x
 argv[3] = z
 
 
+// Goal = Check the keys are all digits, aka not letters, spaces or others
+// Method:
+// 1. for loop
+// 2. string.h -> strlen: Calculate the length of string
+// 3. if ... else statement
+// 4. ctype.h -> isdigit
+// Tracking concept
+
+
+
+
